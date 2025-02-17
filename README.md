@@ -1,1 +1,1 @@
-This repository contains my code for the assignments completed during the Computaional Biology Methods course.
+This repository contains my code for assignments completed during the Computaional Biology Methods course.
